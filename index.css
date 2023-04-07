@@ -29,7 +29,8 @@ button {
 
 footer {
     border: 2px solid black;
-    margin-right: 432px;
+    margin-top: 10px;
+    margin-right: 425px;
     text-align: center;
 }
 
@@ -52,4 +53,5 @@ li {
 #divimagem, #divvideo {
     display: inline-block;
     margin-right: 10px;
+    border: 2px solid black;
 }
